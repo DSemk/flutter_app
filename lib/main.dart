@@ -71,7 +71,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       backgroundColor: _pageBackgroundColor,
-      // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }
